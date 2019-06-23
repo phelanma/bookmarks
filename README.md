@@ -5,6 +5,9 @@ A collection of readings that might be useful and I do not have my local machine
 
 ## Architecture
 
+### Autopilot
+- http://autopilotpattern.io/
+
 ### Nomad/Haproxy/Consul - service discovery
  - https://danielparker.me/haproxy/blue-green/deployments/canary/nomad/simple-blue-green-haproxy/
  - https://danielparker.me/haproxy/nginx/comparison/nginx-vs-haproxy/
@@ -22,6 +25,13 @@ A collection of readings that might be useful and I do not have my local machine
  
  - https://ervikrant06.github.io/consul/Consul/
  
+ 
+### Swarm
+#### Autopilot
+ - https://medium.com/lucjuggery/running-docker-application-in-autopilot-45611f574917
+
+#### MongoDB
+ - https://medium.com/@albertorojasm95/mongodb-replicaset-with-docker-swarm-8461ecd904b0
  
 ## SW Architecture
 
